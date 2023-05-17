@@ -10,7 +10,7 @@ const ArticleCard = () => {
             <p className='text-xs text-gray-600'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut, asperiores.</p>
 
         </div>
-        <div className='flex'>
+        <div className='flex space-x-2'>
             <img className='w-14 h-14 rounded-full' src="https://placehold.co/600x600" alt="" />
             <div className='flex flex-col'>
                 <span className='text-xs text-gray-600'>La date</span>
